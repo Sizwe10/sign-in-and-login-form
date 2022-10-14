@@ -45,9 +45,26 @@ body {
                 right: 45;
 }
 
-.lofinMsg, .signupMsg{
+.loginMsg, .signupMsg{
                 width: 50%;
                 height: 100%;
                 font-size: 15px;
                 box-sizing: border-box;
+}
+
+.loginMsg .title,
+.signupMsg .title {
+                font-weight: 300;
+                font-size: 23px;
+}
+
+.loginMsg p,
+.signupMsg p {
+                font-weight: 100;
+}
+
+.textcontent {
+                color: white;
+                margin-top: 65px;
+                margin-left: 12%;
 }
