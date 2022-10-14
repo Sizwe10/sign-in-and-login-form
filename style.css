@@ -41,4 +41,6 @@ body {
                 transform: right .8s ease-in-out;
 }
 
-.
+.moving {
+                right: 45;
+}
