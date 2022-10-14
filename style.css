@@ -44,3 +44,10 @@ body {
 .moving {
                 right: 45;
 }
+
+.lofinMsg, .signupMsg{
+                width: 50%;
+                height: 100%;
+                font-size: 15px;
+                box-sizing: border-box;
+}
